@@ -2,7 +2,18 @@
 
 Application de réservation de créneaux avec calendrier interactif.
 
-**[Voir le site en ligne](https://schedly.netlify.app/)**
+**[Voir le site en ligne](https://schedly-app.netlify.app/)**
+
+## Captures d'écran
+
+### Page d'accueil
+![Home](./screenshots/home.png)
+
+### Calendrier
+![Calendrier](./screenshots/calendrier.png)
+
+### Réservation
+![Reservation](./screenshots/reservation.png)
 
 ## Fonctionnalités
 
